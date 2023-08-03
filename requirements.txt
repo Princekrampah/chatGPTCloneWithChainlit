@@ -1,0 +1,10 @@
+sentence_transformer
+transformers
+accelerate
+bitsandbytes
+langchain
+torch
+pypdf
+faiss_cpu
+chainlit
+ctransformers
