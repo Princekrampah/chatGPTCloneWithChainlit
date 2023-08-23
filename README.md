@@ -4,7 +4,7 @@ We'll use a quantized model. What does this mean?
 
 #### Quantization
 
-You are absolutely correct! Quantization is a powerful technique in the field of machine learning and deep learning that involves representing numerical data, such as weights and activations, with lower precision data types like 8-bit integers (int8) instead of the usual 32-bit floating point (float32). This technique offers several advantages, as you've mentioned:
+Quantization is a powerful technique in the field of machine learning and deep learning that involves representing numerical data, such as weights and activations, with lower precision data types like 8-bit integers (int8) instead of the usual 32-bit floating point (float32). This technique offers several advantages, as you've mentioned:
 
 **Reduced Memory Storage**
 
